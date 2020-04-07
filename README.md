@@ -5,3 +5,5 @@ In short:
 Our NP-Complete Problem : Longest Path 
 Input: n-node undirected graph G(V, E); nodes s and t in V; positive integer k. 
 Our Question: Is there a simple path between s and t in G that contains at least k edges?
+
+Project aims to find a heuristic approach for the Longest Path Problem
